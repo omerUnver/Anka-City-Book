@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Anka
 //
-//  Created by M.Ömer Ünver on 6.08.2022.
+//  Created by M.Ömer Ünver on 21.07.2022.
 //
 
 import UIKit

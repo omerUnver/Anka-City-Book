@@ -16,6 +16,9 @@
 		0F990E99289E43740053C074 /* AnkaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F990E98289E43740053C074 /* AnkaTests.swift */; };
 		0F990EA3289E43740053C074 /* AnkaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F990EA2289E43740053C074 /* AnkaUITests.swift */; };
 		0F990EA5289E43740053C074 /* AnkaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F990EA4289E43740053C074 /* AnkaUITestsLaunchTests.swift */; };
+		0F990EB2289E43A20053C074 /* gezi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F990EB1289E43A20053C074 /* gezi.swift */; };
+		0F990EB4289E43C10053C074 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F990EB3289E43C10053C074 /* ViewController2.swift */; };
+		0F990EB6289E43CF0053C074 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F990EB5289E43CF0053C074 /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		0F990E9E289E43740053C074 /* AnkaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnkaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F990EA2289E43740053C074 /* AnkaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnkaUITests.swift; sourceTree = "<group>"; };
 		0F990EA4289E43740053C074 /* AnkaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnkaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0F990EB1289E43A20053C074 /* gezi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gezi.swift; sourceTree = "<group>"; };
+		0F990EB3289E43C10053C074 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		0F990EB5289E43CF0053C074 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +112,9 @@
 				0F990E8A289E43740053C074 /* Assets.xcassets */,
 				0F990E8C289E43740053C074 /* LaunchScreen.storyboard */,
 				0F990E8F289E43740053C074 /* Info.plist */,
+				0F990EB1289E43A20053C074 /* gezi.swift */,
+				0F990EB3289E43C10053C074 /* ViewController2.swift */,
+				0F990EB5289E43CF0053C074 /* ViewController3.swift */,
 			);
 			path = Anka;
 			sourceTree = "<group>";
@@ -258,6 +267,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F990EB4289E43C10053C074 /* ViewController2.swift in Sources */,
+				0F990EB2289E43A20053C074 /* gezi.swift in Sources */,
+				0F990EB6289E43CF0053C074 /* ViewController3.swift in Sources */,
 				0F990E86289E43710053C074 /* ViewController.swift in Sources */,
 				0F990E82289E43710053C074 /* AppDelegate.swift in Sources */,
 				0F990E84289E43710053C074 /* SceneDelegate.swift in Sources */,
